@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @priyadarshiniagrawal
+- 👋 Hi, I’m Priyadarshini Agrawal
 - 👀 I’m an enthusiastic person in the field of computer science.
 I am familiar with HTML, CSS, Python, C and have a basic knowledge of SQL, Java, PHP...
 and I want to explore more in this field .
